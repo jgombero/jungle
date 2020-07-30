@@ -45,13 +45,13 @@ Enhancements:
 ## Screenshots of New Features
 
 Admin Categories
-["Screenshot of Admin Categories"](https://github.com/jgombero/jungle/blob/master/docs/Admin%20Categories.png?raw=true)
+!["Screenshot of Admin Categories"](https://github.com/jgombero/jungle/blob/master/docs/Admin%20Categories.png?raw=true)
 
 Order Details
-["Screenshot of Order Details"](https://github.com/jgombero/jungle/blob/master/docs/Order%20Details.png?raw=true)
+!["Screenshot of Order Details"](https://github.com/jgombero/jungle/blob/master/docs/Order%20Details.png?raw=true)
 
 Products with Sold Out Banner
-["Screenshot of Products with Sold Out Banner"](https://github.com/jgombero/jungle/blob/master/docs/Products%20with%20Sold%20Out%20Banner.png?raw=true)
+!["Screenshot of Products with Sold Out Banner"](https://github.com/jgombero/jungle/blob/master/docs/Products%20with%20Sold%20Out%20Banner.png?raw=true)
 
 Signup Page
-["Screenshot of Signup Page"](https://github.com/jgombero/jungle/blob/master/docs/Signup%20Page.png?raw=true)
+!["Screenshot of Signup Page"](https://github.com/jgombero/jungle/blob/master/docs/Signup%20Page.png?raw=true)
