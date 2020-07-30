@@ -41,3 +41,17 @@ Features:
 
 Enhancements:
 - Order Details Page -> The order page contains items, their image, name, description, quantities and line item totals. The final amount for the order is displayed. The email that was used to place the order is displayed. As a Visitor I can place an order (i.e. without logging in and therefore without an e-mail address). The original functionality from the inherited code (even though it is not realistic) should therefore not be suppressed.
+
+## Screenshots of New Features
+
+Admin Categories
+["Screenshot of Admin Categories"](https://github.com/jgombero/jungle/blob/master/docs/Admin%20Categories.png?raw=true)
+
+Order Details
+["Screenshot of Order Details"](https://github.com/jgombero/jungle/blob/master/docs/Order%20Details.png?raw=true)
+
+Products with Sold Out Banner
+["Screenshot of Products with Sold Out Banner"](https://github.com/jgombero/jungle/blob/master/docs/Products%20with%20Sold%20Out%20Banner.png?raw=true)
+
+Signup Page
+["Screenshot of Signup Page"](https://github.com/jgombero/jungle/blob/master/docs/Signup%20Page.png?raw=true)
